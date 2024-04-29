@@ -9,7 +9,7 @@ source venv\bin\activate
 pip install -r requirements.txt
 ```
 
-All the analysis is presented in the Jupyter Notebook [IoT NIDS.ipynb](IoT NIDS.ipynb).
+All the analysis is presented in the Jupyter Notebook [IoT NIDS.ipynb](IoT%20NIDS.ipynb).
 
 You can make changes opening it with the Jupyter Lab:
 
