@@ -1,11 +1,13 @@
 # Network Intrusion Detection for IoT Systems
 
-This is an illustrative example on applying machine learning for network intrusion detection systems (NIDS).
+This is an illustrative (toy) example on applying machine learning for network intrusion detection systems (NIDS).
+
+The critical thinking for each step is detailed in the related book chapter.
 
 ## Setting up the environment
 ```bash
 python -m venv venv
-source venv\bin\activate
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
